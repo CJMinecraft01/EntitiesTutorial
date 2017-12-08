@@ -1,0 +1,16 @@
+[
+{
+  "modid": "et",
+  "name": "Entity Tutorial",
+  "description": "The mod for the entity tutorial.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["CJMinecraft"],
+  "credits": "For subscribers for wanting me to make this",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
